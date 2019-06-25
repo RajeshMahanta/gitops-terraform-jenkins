@@ -1,4 +1,4 @@
-variable "aws_instance_count" {
+variable "ec2_instance_count" {
   default = 1
 }
 
